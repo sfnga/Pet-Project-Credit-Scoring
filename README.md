@@ -50,5 +50,6 @@
 | [Feature Engeneering](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/feature_engeneering/feature_engineering.py)| Функции для создания признаков|
 | [Preprocessing + Feature Engeneering](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/feature_engeneering/feature_engeneering.ipynb)| Предобработка данных и создание признаков|
 | [Sklearn Models](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/sklearn_models.ipynb)| Обучение моделей из библиотеки  scikit-learn: логистическая регрессия, случайный лес, градиентный бустинг и сравнение результатов|
+| [XGBoost + Optuna](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/xgboost_tuning.ipynb)| Обучение XGBoost и оптимизация гиперпараметров с помощью Optuna|
 | [Keras + KerasTuner](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/keras_nn.ipynb)| Нейронная сеть на Keras и оптимизация гиперпараметров с помощью библиотеки KerasTuner     | 
 | [CatBoost](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/catboost_training.ipynb)| Обучение CatBoost и отбор признаков встроенными методами библиотеки              | 
