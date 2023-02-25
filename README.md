@@ -54,3 +54,4 @@
 | [XGBoost + Optuna](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/xgboost_tuning.ipynb)| Обучение XGBoost и оптимизация гиперпараметров с помощью Optuna|
 | [Keras + KerasTuner](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/keras_nn.ipynb)| Нейронная сеть на Keras и оптимизация гиперпараметров с помощью библиотеки KerasTuner     | 
 | [CatBoost](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/catboost_training.ipynb)| Обучение CatBoost и отбор признаков встроенными методами библиотеки              | 
+| [LightAutoML](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/lightautoml.ipynb) | Решение задачи с помощью LightAutoML |
