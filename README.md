@@ -58,3 +58,4 @@
 | [CatBoost](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/catboost_training.ipynb)| Обучение CatBoost и отбор признаков встроенными методами библиотеки              | 
 | [Keras + KerasTuner](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/keras_nn.ipynb)| Нейронная сеть на Keras и оптимизация гиперпараметров с помощью библиотеки KerasTuner     | 
 | [LightAutoML](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/models/lightautoml.ipynb) | Решение задачи с помощью LightAutoML |
+| [LightGBM + SHAP](https://github.com/sfnga/Pet-Project-Credit-Scoring/blob/main/interpretation/lightgbm_interpretation.ipynb) | Обучение LightGBM и интерпретация предсказаний при помощи библиотеки SHAP | 
